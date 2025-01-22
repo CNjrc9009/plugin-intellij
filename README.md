@@ -20,3 +20,4 @@ and search for `jsDelivr`.
     - F1 - jsDelivr package page
     - F2 - npm package page
     - F3 - GitHub page
+
